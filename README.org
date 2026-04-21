@@ -3,8 +3,8 @@
 A small toy project written in Common Lisp (sbcl) to fetch the current
 rate between two assets.
 
-Use `make` to build it, run `./common-rate --help` to get help.
+Use =make= to build it, run =./common-rate --help= to get help.
 
-For more `make` options run `make help`.
+For more =make= options run =make help=.
 
-Based on the works of <https://github.com/parenworks/gilt>
+Based on the works of <https://github.com/parenworks/gilt>.
